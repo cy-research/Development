@@ -1,6 +1,6 @@
 # R&D Development
 
-# Hi, it's Aswanth 👋
+# Hey.. 👋
 
 I'm a Sonftware Engineer from India interested in front-end web development, Python and maths. keep Optimized !!
 
