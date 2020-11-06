@@ -1,5 +1,5 @@
-# Development
-R&amp;D
+# R&D Development
+
 <a href="https://github.com/cy-research">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cy-research&count_private=true&show_icons=true&theme=dark" />
 </a>
